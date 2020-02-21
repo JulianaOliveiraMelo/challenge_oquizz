@@ -9,5 +9,6 @@ Simple quizz avec des:
  * mauvaises reponses  
  * des utilisateurs
 
-Ne pas oublier de importer la data dans le dossier app/data
+Ne pas oublier d'importer la data  
+* app/data
 
